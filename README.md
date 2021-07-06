@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently doing my B.Tech in Computer Science and Engineering and specialising in the field of Artificial Intelligence.
+- 🔭 I am currently doing my B.Tech in Computer Science and Engineering, and specializing in the field of Artificial Intelligence.
 - 🌱 I have worked on projects in the field of Artificial Intelligence and Computer Vision.
 <!--
 - 🤔 I’m looking for help with backache
